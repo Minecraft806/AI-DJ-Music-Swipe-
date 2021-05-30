@@ -43,7 +43,7 @@ body {
     margin: 15px;
 }
 
-.play_btn {
+.play_btn,.stop_btn {
     width: 130px;
     font-size: 25px;
 }
